@@ -1,0 +1,7 @@
+hello world
+this is the first line
+this is the second line
+java multithreading is fun
+what about punctuation removal
+the queue will handle lines one by one
+end of the input file
